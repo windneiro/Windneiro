@@ -106,21 +106,8 @@
 <h2 align="center" style="color: #70a5fd;">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td colspan="2" width="100%" align="center">
         <img width="100%" src="https://git-stars.inclave.ru/?username=Windneiro&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&include_all_commits=true&count_private=true" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
         <img width="100%" src="https://git-stars.inclave.ru/top-langs?username=Windneiro&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&langs_count=8" />
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src=["https://github-readme-streak-stats.herokuapp.com/?user=Windneiro&theme=tokyonight](https://streak-stats.demolab.com/?user=Windneiro&theme=tokyonight)" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br/>
