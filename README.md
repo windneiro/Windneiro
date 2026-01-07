@@ -143,8 +143,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,8,15,20,25&height=40&section=footer&animation=twinkling&width=100%" />
 
-<div align="center" style="margin-top: 10px; color: #6c7086; font-size: 14px;">
-  <i>"Building systems that scale, one line at a time"</i>
-</div>
-
 </div>
