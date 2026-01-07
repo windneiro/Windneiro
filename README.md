@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Windneiro&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Windneiro&theme=tokyonight&no-frame=false&margin-w=15" alt="trophies" />
 </p>
 
 <br/>
