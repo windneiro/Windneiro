@@ -108,16 +108,16 @@
 <div align="center">
   <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td width="100%" align="center">
+      <td colspan="2" width="100%" align="center">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Windneiro&show_icons=true&theme=nord&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&include_all_commits=true&count_private=true&custom_title=Windneiro%27s%20Development%20Activity" />
       </td>
     </tr>
     <tr>
-      <td width="48%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windneiro&layout=compact&theme=nord&hide_border=true&title_color=70a5fd&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&langs_count=8&size_weight=0.5&count_weight=0.5" />
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windneiro&layout=compact&theme=nord&hide_border=true&title_color=70a5fd&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&langs_count=8" />
       </td>
-      <td width="52%" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Windneiro&theme=nord&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=bf91f3&sideNums=cdd6f4&currStreakNum=cdd6f4&background=1e1e2e&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" />
+      <td width="50%" align="center">
+        <img width="100%" src="https://streak-stats.demolab.com/?user=Windneiro&theme=nord&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=bf91f3&sideNums=cdd6f4&currStreakNum=cdd6f4&background=1e1e2e&border_radius=20" />
       </td>
     </tr>
   </table>
