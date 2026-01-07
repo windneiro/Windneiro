@@ -117,7 +117,7 @@
         <img width="100%" src="https://git-stars.inclave.ru/top-langs?username=Windneiro&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&langs_count=8" />
       </td>
       <td width="50%" align="center">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=Windneiro&theme=tokyonight&hide_border=true&background=1a1b26&stroke=70a5fd&ring=bf91f3&fire=bf91f3&sideNums=a9b1d6&currStreakNum=a9b1d6&border_radius=20" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Windneiro&theme=tokyonight" />
       </td>
     </tr>
   </table>
