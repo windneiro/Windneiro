@@ -52,36 +52,31 @@
 <div align="center">
   <table width="100%" style="border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center" width="25%">
-        <div style="background: rgba(112, 165, 253, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(112, 165, 253, 0.3);">
-          <strong style="color: #70a5fd;">Frontend</strong><br/><br/>
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2c3e50" />
+      <td align="center" width="33%">
+        <div style="background: rgba(112, 165, 253, 0.05); padding: 20px; border-radius: 15px; border: 1px solid rgba(112, 165, 253, 0.2);">
+          <strong style="color: #70a5fd;">Frontend & UI</strong><br/><br/>
+          <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2c3e50" />
         </div>
       </td>
-      <td align="center" width="25%">
-        <div style="background: rgba(191, 145, 243, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(191, 145, 243, 0.3);">
-          <strong style="color: #bf91f3;">High-Load & DB</strong><br/><br/>
-          <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2c3e50" />
+      <td align="center" width="33%">
+        <div style="background: rgba(191, 145, 243, 0.05); padding: 20px; border-radius: 15px; border: 1px solid rgba(191, 145, 243, 0.2);">
+          <strong style="color: #bf91f3;">Backend & Data</strong><br/><br/>
+          <img src="https://img.shields.io/badge/ELIXIR-4B275F?style=for-the-badge&logo=elixir&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/CASSANDRA-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=2c3e50" />
         </div>
       </td>
-      <td align="center" width="25%">
-        <div style="background: rgba(244, 114, 182, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(244, 114, 182, 0.3);">
-          <strong style="color: #f472b6;">Systems</strong><br/><br/>
-          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2c3e50" />
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <div style="background: rgba(34, 197, 94, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(34, 197, 94, 0.3);">
-          <strong style="color: #22c55e;">DevOps & Tools</strong><br/><br/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2c3e50" />
+      <td align="center" width="33%">
+        <div style="background: rgba(244, 114, 182, 0.05); padding: 20px; border-radius: 15px; border: 1px solid rgba(244, 114, 182, 0.2);">
+          <strong style="color: #f472b6;">Systems & Desktop</strong><br/><br/>
+          <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/FONT_AWESOME-33D17A?style=for-the-badge&logo=font-awesome&logoColor=white&labelColor=2c3e50" />
         </div>
       </td>
     </tr>
