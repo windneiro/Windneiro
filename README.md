@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Focus-High%20Performance%20Systems-8b5cf6?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Windneiro&theme=tokyonight&no-frame=false&margin-w=15" alt="trophies" />
-</p>
-
 <br/>
 
 <div align="center">
