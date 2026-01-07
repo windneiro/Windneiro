@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,8,15,20,25&height=220&section=header&text=Windneiro&fontSize=80&fontAlignY=40&desc=Systems%20Architect%20%26%20Performance%20Engineer&descSize=24&descAlignY=65&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Windneiro&theme=tokyonight&height=200&fontSize=70" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Windneiro&label=Profile%20Views&color=6366f1&style=for-the-badge&labelColor=1e1e2e" alt="Views" />
