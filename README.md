@@ -102,14 +102,14 @@
 <h2 align="center" style="color: #70a5fd;">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="200" src="https://git-stars.inclave.ru/?username=Windneiro&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://git-stars.inclave.ru/top-langs?username=Windneiro&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&langs_count=8&card_width=400" />
+  <img height="195" src="https://git-stars.inclave.ru/?username=Windneiro&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&include_all_commits=true&count_private=true" />
+  <img height="195" src="https://git-stars.inclave.ru/top-langs?username=Windneiro&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&langs_count=8" />
 </p>
 
 <br/>
 
 <div align="center">
-  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Windneiro&theme=tokyonight&hide_border=true&area=true&custom_title=Code%20Contribution%20Graph&color=70a5fd&line=bf91f3&point=f472b6&bg_color=1a1b26" />
+  <img width="840" src="https://git-stars.inclave.ru/api/python-graph?username=Windneiro&theme=tokyonight&hide_border=true&area=true&custom_title=Code%20Contribution%20Graph&color=70a5fd&line=bf91f3&point=f472b6&bg_color=1a1b26" />
 </div>
 
 <br/>
