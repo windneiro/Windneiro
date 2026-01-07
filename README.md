@@ -109,12 +109,12 @@
   <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td colspan="2" width="100%" align="center">
-        <img width="100%" src="https://github-readme-stats-eight.vercel.app/api?username=Windneiro&show_icons=true&theme=nord&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&include_all_commits=true&count_private=true" />
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Windneiro&show_icons=true&theme=nord&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&include_all_commits=true&count_private=true" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Windneiro&layout=compact&theme=nord&hide_border=true&title_color=70a5fd&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&langs_count=8" />
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Windneiro&layout=compact&theme=nord&hide_border=true&title_color=70a5fd&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&langs_count=8" />
       </td>
       <td width="50%" align="center">
         <img width="100%" src="https://streak-stats.demolab.com/?user=Windneiro&theme=nord&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=bf91f3&sideNums=cdd6f4&currStreakNum=cdd6f4&background=1e1e2e&border_radius=20" />
