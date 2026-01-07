@@ -1,91 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&text=Windneiro&theme=tokyonight&height=200&fontSize=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,8,15,20,25&height=220&section=header&text=Windneiro&fontSize=80&fontAlignY=40&desc=Systems%20Architect%20%26%20Performance%20Engineer&descSize=24&descAlignY=65&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Windneiro&label=SYSTEM%20ACCESS%20COUNT&color=70a5fd&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Windneiro&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="100%" />
-</p>
-
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <h3>Core Expertise</h3>
-      <ul>
-        <li><b>Architecture:</b> Scalable backend & distributed systems</li>
-        <li><b>Performance:</b> Systems programming via Rust & Elixir</li>
-        <li><b>Automation:</b> Advanced Telegram bot infrastructure</li>
-        <li><b>Interface:</b> Modern reactive UI development (Vue 3 + Vite)</li>
-      </ul>
-    </td>
-    <td width="50%" align="left" valign="top">
-      <h3>2026 Roadmap</h3>
-      <ul>
-        <li>Optimization of distributed <b>Cassandra</b> clusters</li>
-        <li>Open source contributions to <b>BEAM/OTP</b> ecosystem</li>
-        <li>Advanced memory management research in <b>Rust</b></li>
-        <li>Deployment of high-concurrency production systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### My Tech Ecosystem
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br/>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>High-Load & DB</strong><br/>
-      <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Systems & Logic</strong><br/>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-### 🧬 Philosophy
-*"Database selection is not a matter of habit, it's a matter of workload."*
-
-<p align="left">
-  ⚡ <b>Bots:</b> Scalable Node.js architectures.<br/>
-  ⚡ <b>Concurrency:</b> Leveraging Elixir for massive connection handling.<br/>
-  ⚡ <b>Storage:</b> Cassandra for Big Data, SQLite for simplicity.<br/>
-  ⚡ <b>Native:</b> High-performance system tools in Rust.
-</p>
-
-### System Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Windneiro&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windneiro&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6" />
+  <img src="https://komarev.com/ghpvc/?username=Windneiro&label=Profile%20Views&color=6366f1&style=for-the-badge&labelColor=1e1e2e" alt="Views" />
+  <img src="https://img.shields.io/badge/Status-Coding%20at%20Light%20Speed-10b981?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Systems-8b5cf6?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Windneiro&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=bf91f3&sideNums=a9b1d6&currStreakNum=a9b1d6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Windneiro&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=8&rank=SSS,SS,S,AAA,AA,A,B,C&row=1" width="100%" />
 </p>
 
-### Terminal
-<a href="https://t.me/Windneiro">
-  <img src="https://img.shields.io/badge/TELEGRAM-CONNECTION-blue?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0" />
-</a>
+<br/>
 
-<br/><br/>
+<div align="center">
+  <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td width="50%" valign="top">
+        <div style="background: linear-gradient(145deg, #1e1e2e, #2d2d44); padding: 25px; border-radius: 20px; border-left: 4px solid #70a5fd; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);">
+          <h3 align="left" style="color: #70a5fd; margin-top: 0;">🚀 Core Expertise</h3>
+          <ul align="left" style="color: #cdd6f4;">
+            <li><b>🏗 Architecture:</b> Scalable backend & distributed systems</li>
+            <li><b>⚡ Performance:</b> Systems programming via Rust & Elixir</li>
+            <li><b>🤖 Automation:</b> Advanced Telegram bot infrastructure</li>
+            <li><b>🎨 Interface:</b> Modern reactive UI (Vue 3 + Vite)</li>
+            <li><b>🔗 Concurrency:</b> BEAM/OTP ecosystem mastery</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: linear-gradient(145deg, #1e1e2e, #2d2d44); padding: 25px; border-radius: 20px; border-left: 4px solid #bf91f3; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);">
+          <h3 align="left" style="color: #bf91f3; margin-top: 0;">🎯 2026 Roadmap</h3>
+          <ul align="left" style="color: #cdd6f4;">
+            <li>Optimization of distributed <b>Cassandra</b> clusters</li>
+            <li>Open source contributions to <b>BEAM/OTP</b> ecosystem</li>
+            <li>Advanced memory management research in <b>Rust</b></li>
+            <li>Deployment of high-concurrency production systems</li>
+            <li>Performance optimization patterns research</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%" />
+<br/>
+
+<h2 align="center" style="color: #70a5fd;">🛠 Tech Stack</h2>
+
+<div align="center">
+  <table width="100%" style="border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td align="center" width="25%">
+        <div style="background: rgba(112, 165, 253, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(112, 165, 253, 0.3);">
+          <strong style="color: #70a5fd;">Frontend</strong><br/><br/>
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2c3e50" />
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: rgba(191, 145, 243, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(191, 145, 243, 0.3);">
+          <strong style="color: #bf91f3;">High-Load & DB</strong><br/><br/>
+          <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2c3e50" />
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: rgba(244, 114, 182, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(244, 114, 182, 0.3);">
+          <strong style="color: #f472b6;">Systems</strong><br/><br/>
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2c3e50" />
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: rgba(34, 197, 94, 0.1); padding: 20px; border-radius: 15px; border: 1px solid rgba(34, 197, 94, 0.3);">
+          <strong style="color: #22c55e;">DevOps & Tools</strong><br/><br/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2c3e50" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center" style="background: linear-gradient(135deg, rgba(112, 165, 253, 0.1), rgba(191, 145, 243, 0.1)); padding: 30px; border-radius: 20px; border: 1px solid rgba(112, 165, 253, 0.2); margin: 30px 0;">
+  <h3 style="color: #70a5fd; margin-top: 0;">🧬 Engineering Philosophy</h3>
+  <blockquote style="font-style: italic; color: #cdd6f4; border-left: 3px solid #bf91f3; padding-left: 20px;">
+    "Database selection is not a matter of habit, it's a matter of workload. Every system deserves architecture that matches its unique demands."
+  </blockquote>
+  
+  <div align="left" style="display: inline-block; margin-top: 20px;">
+    <p style="color: #cdd6f4;">
+      <span style="color: #70a5fd;">⚡ Bots:</span> Scalable Node.js architectures with event-driven design<br/>
+      <span style="color: #70a5fd;">⚡ Concurrency:</span> Leveraging Elixir's BEAM for massive connection handling<br/>
+      <span style="color: #70a5fd;">⚡ Storage:</span> Cassandra for Big Data, SQLite for simplicity, PostgreSQL for ACID<br/>
+      <span style="color: #70a5fd;">⚡ Native:</span> High-performance system tools in Rust and Go
+    </p>
+  </div>
+</div>
+
+<br/>
+
+<h2 align="center" style="color: #70a5fd;">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td width="100%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Windneiro&show_icons=true&theme=nord&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&include_all_commits=true&count_private=true&custom_title=Windneiro%27s%20Development%20Activity" />
+      </td>
+    </tr>
+    <tr>
+      <td width="48%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windneiro&layout=compact&theme=nord&hide_border=true&title_color=70a5fd&text_color=cdd6f4&bg_color=1e1e2e&border_radius=20&langs_count=8&size_weight=0.5&count_weight=0.5" />
+      </td>
+      <td width="52%" align="center">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Windneiro&theme=nord&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=bf91f3&sideNums=cdd6f4&currStreakNum=cdd6f4&background=1e1e2e&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Windneiro&theme=nord&hide_border=true&area=true&custom_title=Code%20Contribution%20Graph&color=70a5fd&line=bf91f3&point=f472b6&area_color=70a5fd&bg_color=1e1e2e" width="100%" />
+</div>
+
+<br/>
+
+<h2 align="center" style="color: #70a5fd;">📡 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://t.me/Windneiro">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Message%20me%20on%20Telegram&labelColor=1e1e2e" />
+  </a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,8,15,20,25&height=40&section=footer&animation=twinkling&width=100%" />
+
+<div align="center" style="margin-top: 10px; color: #6c7086; font-size: 14px;">
+  <i>"Building systems that scale, one line at a time"</i>
+</div>
 
 </div>
