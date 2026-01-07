@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-### Technical Stack
+### My Tech Ecosystem
 
 <table>
   <tr>
@@ -57,6 +57,16 @@
     </td>
   </tr>
 </table>
+
+### 🧬 Philosophy
+*"Database selection is not a matter of habit, it's a matter of workload."*
+
+<p align="left">
+  ⚡ <b>Bots:</b> Scalable Node.js architectures.<br/>
+  ⚡ <b>Concurrency:</b> Leveraging Elixir for massive connection handling.<br/>
+  ⚡ <b>Storage:</b> Cassandra for Big Data, SQLite for simplicity.<br/>
+  ⚡ <b>Native:</b> High-performance system tools in Rust.
+</p>
 
 ### System Analytics
 
