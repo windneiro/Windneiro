@@ -70,7 +70,7 @@
         <div style="background: rgba(244, 114, 182, 0.05); padding: 20px; border-radius: 15px; border: 1px solid rgba(244, 114, 182, 0.2);">
           <strong style="color: #f472b6;">Systems & Desktop</strong><br/><br/>
           <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=2c3e50" /><br/>
-          <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2c3e50" /><br/>
+          <img src="https://img.shields.io/badge/ZIG-F7A41D?style=for-the-badge&logo=zig&logoColor=white&labelColor=2c3e50" /><br/>
           <img src="https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=2c3e50" /><br/>
           <img src="https://img.shields.io/badge/FONT_AWESOME-33D17A?style=for-the-badge&logo=font-awesome&logoColor=white&labelColor=2c3e50" />
         </div>
