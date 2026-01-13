@@ -92,7 +92,7 @@
       <span style="color: #70a5fd;">⚡ Bots:</span> Scalable Node.js architectures with event-driven design<br/>
       <span style="color: #70a5fd;">⚡ Concurrency:</span> Leveraging Elixir's BEAM for massive connection handling<br/>
       <span style="color: #70a5fd;">⚡ Storage:</span> Cassandra for Big Data, SQLite for simplicity, MariaDB for ACID<br/>
-      <span style="color: #70a5fd;">⚡ Native:</span> High-performance system tools in Rust and Go
+      <span style="color: #70a5fd;">⚡ Native:</span> High-performance system tools in Rust and Zig
     </p>
   </div>
 </div>
