@@ -102,8 +102,8 @@
 <h2 align="center" style="color: #70a5fd;">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://git-stars.inclave.ru/?username=Windneiro&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://git-stars.inclave.ru/top-langs?username=Windneiro&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&langs_count=10" height="200" style="vertical-align:top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Windneiro&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Windneiro&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b26&border_radius=20&langs_count=10" height="200" style="vertical-align:top" />
 </p>
 
 
